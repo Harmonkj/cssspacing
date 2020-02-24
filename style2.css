@@ -22,7 +22,8 @@ position: relative;
   height: 150px;
   width: 150px;
 position: relative;
-  top: 80px;
-  left: 500px;
+  top: 90px;
+  left: 510px;
+  z-index: -1;
   margin-bottom: 10px;
 }
