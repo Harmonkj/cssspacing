@@ -3,6 +3,7 @@
   height: 200px;
   width: 200px;
   position: relative;
+bottom: 20px;
   margin-bottom: 10px;
 }
 .box1{
