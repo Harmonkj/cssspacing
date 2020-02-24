@@ -3,6 +3,8 @@
   height: 200px;
   width: 200px;
   position: relative;
+  left:315px; 
+  top: 400px;
   margin-bottom: 10px;
 }
 .box1{
